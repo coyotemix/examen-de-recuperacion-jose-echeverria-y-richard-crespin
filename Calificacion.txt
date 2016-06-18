@@ -1,0 +1,11 @@
+Detalle Calificacion   23/50
+Pagina de Servicios (5 Puntos): 3 Puntos. He sido generoso, debio poner informacion de los servicios portuarios de mejor manera. Era info estatica, esperaba mas.
+Pagina de Arribo de Buques con Arreglo de Objetos (10 Puntos): 4 Puntos. No tiene informacion de arribo de buques en la pagina, aunque si hay informacion relacionada en el js.
+Busqueda de buques en 3 criterios(carga, bandera, nombre) (15 Puntos): 0 Puntos. No tiene siquiera bien puesto el link a la pagina.
+Galeria con JQuery (10 Puntos): 10 Puntos. La galeria funciona, aunque debia ser de un solo puerto, la parte tecnica esta bien.
+Calidad de código (comentarios, código que ejecute, ausencia de errores, uso de git, estetica) (10 Puntos): 6 Puntos. Tiene errores y tiene errores en vincular una pagina. No tiene buenos comentarios adicionales a los que yo puse en mi codigo. Tiene codigo extra de clases que es innecesario aqui.
+
+Comentarios Profesor
+No declaro bien las variables en JS (no deben llevar espacios), entonces eso me indica que no tienen siquiera idea de los conceptos mas basicos de programacion en JS.
+Les he puesto unos puntos solo porque veo que han intentado poner informacion de arribo de buques.
+Hubiesen detectado esos errores en la consola.
